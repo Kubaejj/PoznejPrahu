@@ -61,5 +61,5 @@ import '../styles/style.css';
 
 
 import Clarity from '@microsoft/clarity';
-const projectId = "rnzf8513xv"
+const projectId = "rokiutzbqr"
 Clarity.init(projectId);
